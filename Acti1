@@ -5,7 +5,9 @@
 <p>Hello PUne</p>
 <p>Nice to meet you</P>
 <h1>GOOD</h1>
-<h1>GOOD</h1>
+<h2>Not Good</h2>
+WebDriver driver=new ChromeDriver();
+driver.manage().window().maximize();
 <h2>SQL</h2>
 </body>
 </html>
